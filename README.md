@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Erfan
 ####  
-![ ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am a CE student in SBU university, and I'm currently working as a game developer for Unity engine 
 
