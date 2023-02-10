@@ -4,7 +4,7 @@
 
 I am a CE student in SBU university, and I'm currently working as a game developer for Unity engine 
 
-Skills: C/C++/Java/Python/C#/Verilog/VHDL
+Skills: C/C++/Java/Python/C#
 
 - 🔭 I’m currently working on new projects 
 - 🌱 I’m currently learning to move on 
