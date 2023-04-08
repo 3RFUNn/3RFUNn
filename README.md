@@ -7,7 +7,7 @@ I am a CE student in SBU university, and I'm currently working as a game develop
 Skills: C/C++/Java/Python/C#
 
 - 🔭 I’m currently working on new projects 
-- 🌱 I’m currently learning to move on 
+- 🌱 I’m currently learning to become better
 - 📫 How to reach me: erfan_rafiee@yahoo.com 
 
 
