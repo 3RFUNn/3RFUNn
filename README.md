@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3rfunn" alt="3rfunn" /></a> </p>
 
-- 🔭 I’m currently working on **Serious Games, VR Games**
+-  I’m currently working on **Serious Games, VR Games**
 
-- 🌱 I’m currently learning **Game engines, Game design, Developement**
+-  I’m currently learning **Game engines, Game design, Developement**
 
-- 👯 I’m looking to collaborate on **Game industry projects**
+-  I’m looking to collaborate on **Game industry projects**
 
-- 📫 How to reach me **erfan_rafiee@yahoo.com**
+-  How to reach me **efnoskuee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
