@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Game industry projects and researches**
 
-- 📫 How to reach me **erfan_rafiee@yahoo.com**
+- 📫 How to reach me **efnoskuee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
