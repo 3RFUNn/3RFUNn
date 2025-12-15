@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Rafiei Oskouei</h1>
-<h3 align="center">Game developer and Designer</h3>
+<h3 align="center">Game developer & Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3rfunn" alt="3rfunn" /></a> </p>
+
 
 - 🔭 I’m currently working on **Serious Games, VR Games**
 
