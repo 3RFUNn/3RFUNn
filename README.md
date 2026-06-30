@@ -24,16 +24,16 @@
       ►  G A M E   D E V   ×   S O F T W A R E   E N G  ◄
 </pre>
 
-<a href="https://github.com/3RFUNn">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=750&color=FFD23F&center=true&vCenter=true&width=720&height=90&lines=PRESS+START;PLAYER+1+%3A+GAME+DEVELOPER;PLAYER+2+%3A+SOFTWARE+ENGINEER;BOTH+SELECTED+%3A+CO-OP+MODE;INSERT+COIN+TO+CONTINUE..." alt="Press Start" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=750&color=FFD23F&center=true&vCenter=true&width=720&height=90&lines=PRESS+START;PLAYER+1+%3A+GAME+DEVELOPER;PLAYER+2+%3A+SOFTWARE+ENGINEER;BOTH+SELECTED+%3A+CO-OP+MODE;INSERT+COIN+TO+CONTINUE..." alt="Press Start" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/CLASS-GAME_DEVELOPER-ff3864?style=for-the-badge&logo=unity&logoColor=white&labelColor=0b1021" alt="Game Developer" />
 <img src="https://img.shields.io/badge/MULTICLASS-SOFTWARE_ENGINEER-ffd23f?style=for-the-badge&logo=python&logoColor=black&labelColor=0b1021" alt="Software Engineer" />
 <br/>
+<img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEV_%40_MYTREEHOOD-2ea44f?style=for-the-badge&logo=php&logoColor=white&labelColor=0b1021" alt="Software Developer at MyTreeHood" />
 <img src="https://img.shields.io/badge/GUILD-QMUL-9b5de5?style=for-the-badge&logo=academia&logoColor=white&labelColor=0b1021" alt="QMUL" />
+<br/>
 <img src="https://img.shields.io/badge/BASE-LONDON,_UK-1f9cf0?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b1021" alt="London" />
 <img src="https://komarev.com/ghpvc/?username=3rfunn&style=for-the-badge&label=CREDITS+INSERTED&color=ff3864&labelColor=0b1021" alt="Credits" />
 
@@ -43,46 +43,69 @@
 
 ### 🕹️ CHOOSE YOUR PLAYER
 
-> This cabinet ships with **two characters on one save file**. Erfan isn't a game dev *or* a software engineer — he's **both**, running in permanent co-op.
+> One save file, **two characters** — Erfan runs them in permanent co-op. Click a character to **press start** and reveal their abilities.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<h3 align="center">🎮 PLAYER 1</h3>
+<p align="center"><b>GAME DEVELOPER</b><br/><i>"Ships worlds, not just code."</i></p>
+
+<details>
+<summary><b>PRESS START</b> — view abilities</summary>
+<br/>
+🎯 <b>Engines:</b> Unity · Unreal<br/>
+🕹️ <b>Focus:</b> 2D · VR · Serious Games<br/>
+🧩 <b>Systems:</b> Procedural Gen · Gameplay<br/>
+⌨️ <b>Languages:</b> C# · C++<br/>
+🏅 <b>Best runs:</b> Beyond-Yasaman · ZigZag · Troll-Lair<br/>
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+<h3 align="center">💻 PLAYER 2</h3>
+<p align="center"><b>SOFTWARE ENGINEER</b><br/><i>"Turns problems into systems."</i></p>
+
+<details>
+<summary><b>PRESS START</b> — view abilities</summary>
+<br/>
+🧠 <b>Domains:</b> AI/ML · Robotics<br/>
+🌐 <b>Stack:</b> Web · Backend · Databases<br/>
+🛠️ <b>Built:</b> Compilers · Multi-Agent Sims<br/>
+⌨️ <b>Languages:</b> Python · C++ · Java<br/>
+🏅 <b>Best runs:</b> Multi-Agent Town · C++ Compiler<br/>
+</details>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-<pre>
-┌─ PLAYER 1 ─────────────────┐   ┌─ PLAYER 2 ─────────────────┐
-│  > GAME  DEVELOPER         │   │  > SOFTWARE  ENGINEER      │
-│                            │   │                            │
-│  Unity · Unreal · C#       │   │  Python · C++ · Java       │
-│  2D · VR · Serious Games   │   │  AI/ML · Robotics · Web    │
-│  Procedural · Gameplay     │   │  Compilers · Multi-Agent   │
-│                            │   │                            │
-│  HP ████████░░  LV.MAX     │   │  HP ████████░░  LV.MAX     │
-└────────────────────────────┘   └────────────────────────────┘
 
-           « BOTH SELECTED — 2P CO-OP MODE ENGAGED »
-</pre>
+**« BOTH SELECTED — 2P CO-OP MODE ENGAGED »**
+
 </div>
 
 ---
 
 ### 📟 CHARACTER SHEET
 
-<div align="center">
-<pre>
-╔═ CHARACTER SHEET ══════════════════════════════════════════╗
-║ NAME ......... Erfan Rafiei Oskouei                        ║
-║ CLASS ........ Game Developer  ×  Software Engineer        ║
-║ GUILD ........ Queen Mary University of London (QMUL)      ║
-║ ORIGIN ....... Shahid Beheshti University — Computer Eng.  ║
-║ CURRENT QUEST  Serious Games · VR · Multi-Agent Sims       ║
-║ SEEKING ...... Game-industry projects & research co-op     ║
-║ STATUS ....... ONLINE  —  PRESS START TO CONNECT           ║
-╚════════════════════════════════════════════════════════════╝
-</pre>
-</div>
+| `STAT` | `LOADED VALUE` |
+|:--|:--|
+| 🕹️ **NAME** | Erfan Rafiei Oskouei |
+| ⚔️ **CLASS** | Game Developer × Software Engineer |
+| 💼 **ROLE** | Software Developer @ MyTreeHood |
+| 📍 **LOCATION** | London, UK |
+| 🎓 **GUILD** | Queen Mary University of London (QMUL) |
+| 🧬 **ORIGIN** | Shahid Beheshti University — Computer Eng. |
+| 🎯 **CURRENT QUEST** | Serious Games · VR · Multi-Agent Sims |
+| 🤝 **SEEKING** | Game-industry projects & research co-op |
+| 🟢 **STATUS** | ONLINE — press start to connect |
 
-- 🔭 &nbsp;Currently building **Serious Games & VR experiences** and an emergent-narrative **Multi-Agent simulator**.
-- 🌱 &nbsp;Leveling up **game engines, game design & development, and VR**.
-- 👯 &nbsp;Looking to **collaborate on game-industry projects and research**.
 - 🎮 &nbsp;Player-1 mindset (player-facing, feel, fun) meets Player-2 discipline (systems, algorithms, performance).
+- 🌱 &nbsp;Leveling up **game engines, game design & development, and VR**.
 
 ---
 
@@ -100,7 +123,7 @@
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab&theme=dark" alt="ai" /><br/><br/>
 
 <b>🌐 WEB / BACKEND</b><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,html,css&theme=dark" alt="web" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=php,react,nodejs,express,mongodb,mysql,firebase,html,css&theme=dark" alt="web" /><br/><br/>
 
 <b>🛠️ TOOLS / ART</b><br/>
 <img src="https://skillicons.dev/icons?i=git,linux,arduino,androidstudio,figma,ps,ai&theme=dark" alt="tools" />
@@ -139,11 +162,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3rfunn&hide_border=true&background=0b1021&stroke=ffd23f&ring=ffd23f&fire=ff3864&currStreakNum=c7d5e0&sideNums=c7d5e0&currStreakLabel=ffd23f&sideLabels=c7d5e0&dates=8b949e&excludeDaysLabel=8b949e" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=3rfunn&hide_border=true&background=0b1021&stroke=ffd23f&ring=ffd23f&fire=ff3864&currStreakNum=c7d5e0&sideNums=c7d5e0&currStreakLabel=ffd23f&sideLabels=c7d5e0&dates=8b949e&excludeDaysLabel=8b949e" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=3rfunn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=3rfunn&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
@@ -162,7 +185,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1021" alt="LinkedIn" />
 </a>
 <a href="https://3rfunn.github.io/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-3rfunn.github.io-ff3864?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1021" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-ff3864?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1021" alt="Portfolio" />
 </a>
 
 </div>
@@ -170,12 +193,10 @@
 ---
 
 <div align="center">
-<pre>
-╔═ CONTINUE? ═════════════════════════════════════════════╗
-║   THANKS FOR PLAYING  —  INSERT COIN TO CONNECT         ║
-║        9 . . 8 . . 7 . . 6 . . 5 . . ▶                  ║
-╚═════════════════════════════════════════════════════════╝
-</pre>
+
+**◄◄  THANKS FOR PLAYING  ►►**
+
+`INSERT COIN TO CONTINUE`  ·  `9 · · 8 · · 7 · · ▶`
 
 <sub>★ Built with pixels, C#, and Python · GAME DEV × SOFTWARE ENGINEER ★</sub>
 
