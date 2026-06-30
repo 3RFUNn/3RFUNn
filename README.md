@@ -22,9 +22,9 @@
          R A F I E I   O S K O U E I
 
       ►  G A M E   D E V   ×   S O F T W A R E   E N G  ◄
-</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=750&color=FFD23F&center=true&vCenter=true&width=720&height=90&lines=PRESS+START;PLAYER+1+%3A+GAME+DEVELOPER;PLAYER+2+%3A+SOFTWARE+ENGINEER;BOTH+SELECTED+%3A+CO-OP+MODE;INSERT+COIN+TO+CONTINUE..." alt="Press Start" />
+       ☉   I N S E R T   C O I N   ▸   P R E S S   S T A R T
+</pre>
 
 <br/>
 
