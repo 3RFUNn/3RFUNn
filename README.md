@@ -43,40 +43,42 @@
 
 ### 🕹️ CHOOSE YOUR PLAYER
 
-> One save file, **two characters** — Erfan runs them in permanent co-op. Click a character to **press start** and reveal their abilities.
+> One save file, **two characters** — Erfan runs them in permanent co-op.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-<h3 align="center">🎮 PLAYER 1</h3>
-<p align="center"><b>GAME DEVELOPER</b><br/><i>"Ships worlds, not just code."</i></p>
+### 🎮 PLAYER 1
+<b>GAME DEVELOPER</b><br/>
+<i>"Ships worlds, not just code."</i>
 
-<details>
-<summary><b>PRESS START</b> — view abilities</summary>
-<br/>
+</td>
+<td valign="top" width="50%" align="center">
+
+### 💻 PLAYER 2
+<b>SOFTWARE ENGINEER</b><br/>
+<i>"Turns problems into systems."</i>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 🎯 <b>Engines:</b> Unity · Unreal<br/>
 🕹️ <b>Focus:</b> 2D · VR · Serious Games<br/>
 🧩 <b>Systems:</b> Procedural Gen · Gameplay<br/>
 ⌨️ <b>Languages:</b> C# · C++<br/>
-🏅 <b>Best runs:</b> Beyond-Yasaman · ZigZag · Troll-Lair<br/>
-</details>
+🏅 <b>Best runs:</b> Beyond-Yasaman · ZigZag
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
-<h3 align="center">💻 PLAYER 2</h3>
-<p align="center"><b>SOFTWARE ENGINEER</b><br/><i>"Turns problems into systems."</i></p>
-
-<details>
-<summary><b>PRESS START</b> — view abilities</summary>
-<br/>
 🧠 <b>Domains:</b> AI/ML · Robotics<br/>
 🌐 <b>Stack:</b> Web · Backend · Databases<br/>
 🛠️ <b>Built:</b> Compilers · Multi-Agent Sims<br/>
 ⌨️ <b>Languages:</b> Python · C++ · Java<br/>
-🏅 <b>Best runs:</b> Multi-Agent Town · C++ Compiler<br/>
-</details>
+🏅 <b>Best runs:</b> MyTreeHood · Multi-Agent Town
 
 </td>
 </tr>
@@ -100,34 +102,79 @@
 | 📍 **LOCATION** | London, UK |
 | 🎓 **GUILD** | Queen Mary University of London (QMUL) |
 | 🧬 **ORIGIN** | Shahid Beheshti University — Computer Eng. |
-| 🎯 **CURRENT QUEST** | Serious Games · VR · Multi-Agent Sims |
-| 🤝 **SEEKING** | Game-industry projects & research co-op |
+| 🎯 **CURRENT QUEST** | Building & scaling the **[MyTreeHood](https://www.mytreehood.com)** platform — full-stack web engineering |
+| 🎮 **SIDE QUEST** | Serious Games · VR · Multi-Agent Sims |
+| 🤝 **SEEKING** | Game-industry & software projects, research co-op |
 | 🟢 **STATUS** | ONLINE — press start to connect |
-
-- 🎮 &nbsp;Player-1 mindset (player-facing, feel, fun) meets Player-2 discipline (systems, algorithms, performance).
-- 🌱 &nbsp;Leveling up **game engines, game design & development, and VR**.
 
 ---
 
 ### 🎒 INVENTORY · EQUIPPED LOADOUT
 
+<table align="center">
+  <tr><th colspan="7">🎮 GAME ENGINES</th></tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine" alt="Unreal Engine" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" width="45" height="45" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr><th colspan="7">⌨️ LANGUAGES</th></tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="45" height="45" /></td>
+    <td></td>
+  </tr>
+  <tr><th colspan="7">🧠 AI / DATA</th></tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" alt="PyTorch" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" title="scikit-learn" alt="scikit-learn" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" title="MATLAB" alt="MATLAB" width="45" height="45" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr><th colspan="7">🌐 WEB / BACKEND</th></tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" width="45" height="45" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="45" height="45" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr><th colspan="7">🛠️ TOOLS / ART</th></tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" title="Arduino" alt="Arduino" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" alt="Photoshop" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" alt="Illustrator" width="45" height="45" /></td>
+  </tr>
+</table>
+
 <div align="center">
-
-<b>🎮 GAME ENGINES</b><br/>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs&theme=dark" alt="engines" /><br/><br/>
-
-<b>⌨️ LANGUAGES</b><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,py,java,js&theme=dark" alt="languages" /><br/><br/>
-
-<b>🧠 AI / DATA</b><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab&theme=dark" alt="ai" /><br/><br/>
-
-<b>🌐 WEB / BACKEND</b><br/>
-<img src="https://skillicons.dev/icons?i=php,react,nodejs,express,mongodb,mysql,firebase,html,css&theme=dark" alt="web" /><br/><br/>
-
-<b>🛠️ TOOLS / ART</b><br/>
-<img src="https://skillicons.dev/icons?i=git,linux,arduino,androidstudio,figma,ps,ai&theme=dark" alt="tools" />
-
+<sub>🖱️ <b>Hover any item to read its name.</b></sub>
 </div>
 
 ---
@@ -157,8 +204,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=3rfunn&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1021&title_color=ffd23f&text_color=c7d5e0&icon_color=ff3864" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rfunn&layout=compact&langs_count=10&hide_border=true&bg_color=0b1021&title_color=ffd23f&text_color=c7d5e0&icon_color=ff3864" alt="top languages" />
+<img src="https://img.shields.io/badge/GAMES_SHIPPED-8%2B-ff3864?style=for-the-badge&logo=unity&logoColor=white&labelColor=0b1021" alt="Games shipped" />
+<img src="https://img.shields.io/badge/AI%2FML-UNLOCKED-1f9cf0?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0b1021" alt="AI/ML" />
+<img src="https://img.shields.io/badge/ROBOTICS-UNLOCKED-9b5de5?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0b1021" alt="Robotics" />
+<img src="https://img.shields.io/badge/COMPILERS-UNLOCKED-2ea44f?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0b1021" alt="Compilers" />
 
 <br/><br/>
 
@@ -166,7 +215,8 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=3rfunn&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+<img src="https://img.shields.io/github/followers/3RFUNn?style=for-the-badge&logo=github&logoColor=white&label=1UP+FOLLOWERS&color=ffd23f&labelColor=0b1021" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=3rfunn&style=for-the-badge&label=PROFILE+VIEWS&color=ff3864&labelColor=0b1021" alt="Profile views" />
 
 </div>
 
