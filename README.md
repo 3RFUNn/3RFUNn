@@ -22,9 +22,9 @@
          R A F I E I   O S K O U E I
 
       ►  G A M E   D E V   ×   S O F T W A R E   E N G  ◄
-
-       ☉   I N S E R T   C O I N   ▸   P R E S S   S T A R T
 </pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=750&color=FFD23F&center=true&vCenter=true&width=720&height=90&lines=PRESS+START;PLAYER+1+%3A+GAME+DEVELOPER;PLAYER+2+%3A+SOFTWARE+ENGINEER;BOTH+SELECTED+%3A+CO-OP+MODE;INSERT+COIN+TO+CONTINUE..." alt="Press Start" />
 
 <br/>
 
@@ -111,13 +111,15 @@
 
 ### 🎒 INVENTORY · EQUIPPED LOADOUT
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr><th colspan="7">🎮 GAME ENGINES</th></tr>
   <tr>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine" alt="Unreal Engine" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" width="45" height="45" /></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -173,8 +175,8 @@
   </tr>
 </table>
 
-<div align="center">
 <sub>🖱️ <b>Hover any item to read its name.</b></sub>
+
 </div>
 
 ---
