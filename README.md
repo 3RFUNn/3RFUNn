@@ -1,19 +1,182 @@
-<h1 align="center">Hi 👋, I'm Erfan Rafiei Oskouei</h1>
-<h3 align="center">Game developer & Software Engineer</h3>
+<!--
+  ============================================================
+    ERFAN RAFIEI OSKOUEI  ::  ARCADE-STYLE PROFILE README
+    Game Developer  ×  Software Engineer
+    Insert coin, press start, explore the cabinet.
+  ============================================================
+-->
 
+<div align="center">
 
+<pre>
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+    ◄◄   A R C A D E   C A B I N E T   ►►    © 2026
+ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-- 🔭 I’m currently working on **Serious Games, VR Games**
+ ███████╗██████╗ ███████╗ █████╗ ███╗   ██╗
+ ██╔════╝██╔══██╗██╔════╝██╔══██╗████╗  ██║
+ █████╗  ██████╔╝█████╗  ███████║██╔██╗ ██║
+ ██╔══╝  ██╔══██╗██╔══╝  ██╔══██║██║╚██╗██║
+ ███████╗██║  ██║██║     ██║  ██║██║ ╚████║
+ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
+         R A F I E I   O S K O U E I
 
-- 🌱 I’m currently learning **Game engines, Game design and Developement, VR**
+      ►  G A M E   D E V   ×   S O F T W A R E   E N G  ◄
+</pre>
 
-- 👯 I’m looking to collaborate on **Game industry projects and researches**
+<a href="https://github.com/3RFUNn">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=750&color=FFD23F&center=true&vCenter=true&width=720&height=90&lines=PRESS+START;PLAYER+1+%3A+GAME+DEVELOPER;PLAYER+2+%3A+SOFTWARE+ENGINEER;BOTH+SELECTED+%3A+CO-OP+MODE;INSERT+COIN+TO+CONTINUE..." alt="Press Start" />
+</a>
 
+<br/>
 
+<img src="https://img.shields.io/badge/CLASS-GAME_DEVELOPER-ff3864?style=for-the-badge&logo=unity&logoColor=white&labelColor=0b1021" alt="Game Developer" />
+<img src="https://img.shields.io/badge/MULTICLASS-SOFTWARE_ENGINEER-ffd23f?style=for-the-badge&logo=python&logoColor=black&labelColor=0b1021" alt="Software Engineer" />
+<br/>
+<img src="https://img.shields.io/badge/GUILD-QMUL-9b5de5?style=for-the-badge&logo=academia&logoColor=white&labelColor=0b1021" alt="QMUL" />
+<img src="https://img.shields.io/badge/BASE-LONDON,_UK-1f9cf0?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b1021" alt="London" />
+<img src="https://komarev.com/ghpvc/?username=3rfunn&style=for-the-badge&label=CREDITS+INSERTED&color=ff3864&labelColor=0b1021" alt="Credits" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3rfunn&show_icons=true&theme=dracula&locale=en&layout=compact" alt="3rfunn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3rfunn&show_icons=true&theme=dracula&locale=en" alt="3rfunn" /></p>
+### 🕹️ CHOOSE YOUR PLAYER
+
+> This cabinet ships with **two characters on one save file**. Erfan isn't a game dev *or* a software engineer — he's **both**, running in permanent co-op.
+
+<div align="center">
+<pre>
+┌─ PLAYER 1 ─────────────────┐   ┌─ PLAYER 2 ─────────────────┐
+│  > GAME  DEVELOPER         │   │  > SOFTWARE  ENGINEER      │
+│                            │   │                            │
+│  Unity · Unreal · C#       │   │  Python · C++ · Java       │
+│  2D · VR · Serious Games   │   │  AI/ML · Robotics · Web    │
+│  Procedural · Gameplay     │   │  Compilers · Multi-Agent   │
+│                            │   │                            │
+│  HP ████████░░  LV.MAX     │   │  HP ████████░░  LV.MAX     │
+└────────────────────────────┘   └────────────────────────────┘
+
+           « BOTH SELECTED — 2P CO-OP MODE ENGAGED »
+</pre>
+</div>
+
+---
+
+### 📟 CHARACTER SHEET
+
+<div align="center">
+<pre>
+╔═ CHARACTER SHEET ══════════════════════════════════════════╗
+║ NAME ......... Erfan Rafiei Oskouei                        ║
+║ CLASS ........ Game Developer  ×  Software Engineer        ║
+║ GUILD ........ Queen Mary University of London (QMUL)      ║
+║ ORIGIN ....... Shahid Beheshti University — Computer Eng.  ║
+║ CURRENT QUEST  Serious Games · VR · Multi-Agent Sims       ║
+║ SEEKING ...... Game-industry projects & research co-op     ║
+║ STATUS ....... ONLINE  —  PRESS START TO CONNECT           ║
+╚════════════════════════════════════════════════════════════╝
+</pre>
+</div>
+
+- 🔭 &nbsp;Currently building **Serious Games & VR experiences** and an emergent-narrative **Multi-Agent simulator**.
+- 🌱 &nbsp;Leveling up **game engines, game design & development, and VR**.
+- 👯 &nbsp;Looking to **collaborate on game-industry projects and research**.
+- 🎮 &nbsp;Player-1 mindset (player-facing, feel, fun) meets Player-2 discipline (systems, algorithms, performance).
+
+---
+
+### 🎒 INVENTORY · EQUIPPED LOADOUT
+
+<div align="center">
+
+<b>🎮 GAME ENGINES</b><br/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs&theme=dark" alt="engines" /><br/><br/>
+
+<b>⌨️ LANGUAGES</b><br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,py,java,js&theme=dark" alt="languages" /><br/><br/>
+
+<b>🧠 AI / DATA</b><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,matlab&theme=dark" alt="ai" /><br/><br/>
+
+<b>🌐 WEB / BACKEND</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,html,css&theme=dark" alt="web" /><br/><br/>
+
+<b>🛠️ TOOLS / ART</b><br/>
+<img src="https://skillicons.dev/icons?i=git,linux,arduino,androidstudio,figma,ps,ai&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+### 🗺️ QUEST LOG · SELECT A STAGE
+
+> Press ▶ to warp into a repo. Stages span **both worlds** — World 1 (games) and World 2–3 (systems / AI / engineering).
+
+| STAGE | WORLD | GENRE | ENGINE · TECH | DIFFICULTY | WARP |
+|:-----:|:------|:------|:--------------|:----------:|:----:|
+| `1-1` | [**Beyond-Yasaman**](https://github.com/3RFUNn/Beyond-Yasaman) | 2D Serious Game | Unity · C# | ★★★☆☆ | [▶](https://github.com/3RFUNn/Beyond-Yasaman) |
+| `1-2` | [**Troll-Lair Cave Generator**](https://github.com/3RFUNn/Troll-Lair-Cave-Generator) | Procedural Generation | Unity · C# | ★★★★☆ | [▶](https://github.com/3RFUNn/Troll-Lair-Cave-Generator) |
+| `1-3` | [**ZigZag**](https://github.com/3RFUNn/ZigZag) | Hyper-Casual | Unity · C# | ★★☆☆☆ | [▶](https://github.com/3RFUNn/ZigZag) |
+| `2-1` | [**Multi-Agent Town Story Simulator**](https://github.com/3RFUNn/Multi-Agent-Town-Story-Simulator) | Emergent-Narrative AI Sim | Python | ★★★★★ | [▶](https://github.com/3RFUNn/Multi-Agent-Town-Story-Simulator) |
+| `2-2` | [**Bug 0/1/2 Pathfinding**](https://github.com/3RFUNn/Bug-0-1-2-Algorithms-Implementation) | Robotics · Navigation | Python · Webots | ★★★★☆ | [▶](https://github.com/3RFUNn/Bug-0-1-2-Algorithms-Implementation) |
+| `2-3` | [**C++ Compiler**](https://github.com/3RFUNn/CPP-Compiler-implementation) | Compilers · Lang Design | Java | ★★★★☆ | [▶](https://github.com/3RFUNn/CPP-Compiler-implementation) |
+| `3-1` | [**Othello-AI**](https://github.com/3RFUNn/Othello-AI) | Adversarial Game AI | Python · α-β pruning | ★★★☆☆ | [▶](https://github.com/3RFUNn/Othello-AI) |
+| `3-2` | [**MicroProcessor Systems**](https://github.com/3RFUNn/MicroProcessor-Systems) | Embedded · Bare-metal | C · Keil · Proteus | ★★★☆☆ | [▶](https://github.com/3RFUNn/MicroProcessor-Systems) |
+
+<div align="center">
+<sub>🪙 <b>ALL STAGES UNLOCKED →</b> <a href="https://github.com/3RFUNn?tab=repositories">github.com/3RFUNn?tab=repositories</a></sub>
+</div>
+
+---
+
+### 🏆 HIGH SCORES · ACHIEVEMENTS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=3rfunn&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1021&title_color=ffd23f&text_color=c7d5e0&icon_color=ff3864" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3rfunn&layout=compact&langs_count=10&hide_border=true&bg_color=0b1021&title_color=ffd23f&text_color=c7d5e0&icon_color=ff3864" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3rfunn&hide_border=true&background=0b1021&stroke=ffd23f&ring=ffd23f&fire=ff3864&currStreakNum=c7d5e0&sideNums=c7d5e0&currStreakLabel=ffd23f&sideLabels=c7d5e0&dates=8b949e&excludeDaysLabel=8b949e" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=3rfunn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+
+</div>
+
+---
+
+### 🌐 WARP ZONE · CONNECT
+
+> Out of lives but want to keep playing? Take a warp pipe. **New challengers welcome — insert coin to start a co-op.**
+
+<div align="center">
+
+<a href="https://github.com/3RFUNn">
+  <img src="https://img.shields.io/badge/GITHUB-3RFUNn-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1021" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/erfan-rafiei-oskouei-1a4a50283/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1021" alt="LinkedIn" />
+</a>
+<a href="https://3rfunn.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-3rfunn.github.io-ff3864?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0b1021" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<pre>
+╔═ CONTINUE? ═════════════════════════════════════════════╗
+║   THANKS FOR PLAYING  —  INSERT COIN TO CONNECT         ║
+║        9 . . 8 . . 7 . . 6 . . 5 . . ▶                  ║
+╚═════════════════════════════════════════════════════════╝
+</pre>
+
+<sub>★ Built with pixels, C#, and Python · GAME DEV × SOFTWARE ENGINEER ★</sub>
+
+</div>
