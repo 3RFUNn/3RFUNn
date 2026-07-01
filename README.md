@@ -136,16 +136,13 @@
   </tr>
   <tr><th colspan="7">🧠 AI / DATA</th></tr>
   <tr>
-    <td colspan="7" align="center">
-      <img src="https://img.shields.io/badge/PyTorch-0b1021?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-0b1021?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Keras-0b1021?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras" />
-      <img src="https://img.shields.io/badge/Hugging_Face-0b1021?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
-      <img src="https://img.shields.io/badge/LangChain-0b1021?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
-      <img src="https://img.shields.io/badge/OpenAI-0b1021?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Pandas-0b1021?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-0b1021?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-    </td>
+    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" title="PyTorch" alt="PyTorch" width="42" height="42" /></td>
+    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" title="TensorFlow" alt="TensorFlow" width="42" height="42" /></td>
+    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/keras/FF0F0F" /><img src="https://cdn.simpleicons.org/keras/D00000" title="Keras" alt="Keras" width="42" height="42" /></picture></td>
+    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/FFD21E" /><img src="https://cdn.simpleicons.org/huggingface/B8860B" title="Hugging Face" alt="Hugging Face" width="42" height="42" /></picture></td>
+    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/openai/10A37F" title="OpenAI" alt="OpenAI" width="42" height="42" /></td>
+    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/E70488" /><img src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" alt="Pandas" width="42" height="42" /></picture></td>
+    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/4DABCF" /><img src="https://cdn.simpleicons.org/numpy/013243" title="NumPy" alt="NumPy" width="42" height="42" /></picture></td>
   </tr>
   <tr><th colspan="7">🌐 WEB / BACKEND</th></tr>
   <tr>
