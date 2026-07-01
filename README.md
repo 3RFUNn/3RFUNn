@@ -41,9 +41,11 @@
 
 ---
 
-### 🕹️ CHOOSE YOUR PLAYER
+<h3 align="center">🕹️ CHOOSE YOUR PLAYER</h3>
 
-> One save file, **two characters** — Erfan runs them in permanent co-op.
+<p align="center">One save file, <b>two characters</b> — Erfan runs them in permanent co-op.</p>
+
+<div align="center">
 
 <table>
 <tr>
@@ -63,7 +65,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" align="center">
 
 🎯 <b>Engines:</b> Unity · Unreal<br/>
 🕹️ <b>Focus:</b> 2D · VR · Serious Games<br/>
@@ -72,7 +74,7 @@
 🏅 <b>Best runs:</b> Beyond-Yasaman · ZigZag
 
 </td>
-<td valign="top">
+<td valign="top" align="center">
 
 🧠 <b>Domains:</b> AI/ML · Robotics<br/>
 🌐 <b>Stack:</b> Web · Backend · Databases<br/>
@@ -84,6 +86,8 @@
 </tr>
 </table>
 
+</div>
+
 <div align="center">
 
 **« BOTH SELECTED — 2P CO-OP MODE ENGAGED »**
@@ -92,7 +96,9 @@
 
 ---
 
-### 📟 CHARACTER SHEET
+<h3 align="center">📟 CHARACTER SHEET</h3>
+
+<div align="center">
 
 | `STAT` | `LOADED VALUE` |
 |:--|:--|
@@ -107,9 +113,11 @@
 | 🤝 **SEEKING** | Game-industry & software projects, research co-op |
 | 🟢 **STATUS** | ONLINE — press start to connect |
 
+</div>
+
 ---
 
-### 🎒 INVENTORY · EQUIPPED LOADOUT
+<h3 align="center">🎒 INVENTORY · EQUIPPED LOADOUT</h3>
 
 <div align="center">
 
@@ -140,7 +148,7 @@
     <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" title="TensorFlow" alt="TensorFlow" width="42" height="42" /></td>
     <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/keras/FF0F0F" /><img src="https://cdn.simpleicons.org/keras/D00000" title="Keras" alt="Keras" width="42" height="42" /></picture></td>
     <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/FFD21E" /><img src="https://cdn.simpleicons.org/huggingface/B8860B" title="Hugging Face" alt="Hugging Face" width="42" height="42" /></picture></td>
-    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/openai/10A37F" title="OpenAI" alt="OpenAI" width="42" height="42" /></td>
+    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/anthropic/D97757" title="Anthropic" alt="Anthropic" width="42" height="42" /></td>
     <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/E70488" /><img src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" alt="Pandas" width="42" height="42" /></picture></td>
     <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/4DABCF" /><img src="https://cdn.simpleicons.org/numpy/013243" title="NumPy" alt="NumPy" width="42" height="42" /></picture></td>
   </tr>
@@ -170,8 +178,8 @@
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" alt="Photoshop" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" alt="Illustrator" width="45" height="45" /></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -181,9 +189,11 @@
 
 ---
 
-### 🗺️ QUEST LOG · SELECT A STAGE
+<h3 align="center">🗺️ QUEST LOG · SELECT A STAGE</h3>
 
-> Press ▶ to warp into a repo. Stages span **both worlds** — World 1 (games) and World 2–3 (systems / AI / engineering).
+<p align="center">Press ▶ to warp into a repo. Stages span <b>both worlds</b> — World 1 (games) and World 2–3 (systems / AI / engineering).</p>
+
+<div align="center">
 
 | STAGE | WORLD | GENRE | ENGINE · TECH | DIFFICULTY | WARP |
 |:-----:|:------|:------|:--------------|:----------:|:----:|
@@ -196,13 +206,15 @@
 | `3-1` | [**Othello-AI**](https://github.com/3RFUNn/Othello-AI) | Adversarial Game AI | Python · α-β pruning | ★★★☆☆ | [▶](https://github.com/3RFUNn/Othello-AI) |
 | `3-2` | [**MicroProcessor Systems**](https://github.com/3RFUNn/MicroProcessor-Systems) | Embedded · Bare-metal | C · Keil · Proteus | ★★★☆☆ | [▶](https://github.com/3RFUNn/MicroProcessor-Systems) |
 
+</div>
+
 <div align="center">
 <sub>🪙 <b>ALL STAGES UNLOCKED →</b> <a href="https://github.com/3RFUNn?tab=repositories">github.com/3RFUNn?tab=repositories</a></sub>
 </div>
 
 ---
 
-### 🏆 HIGH SCORES · ACHIEVEMENTS
+<h3 align="center">🏆 HIGH SCORES · ACHIEVEMENTS</h3>
 
 <div align="center">
 
@@ -224,9 +236,9 @@
 
 ---
 
-### 🌐 WARP ZONE · CONNECT
+<h3 align="center">🌐 WARP ZONE · CONNECT</h3>
 
-> Out of lives but want to keep playing? Take a warp pipe. **New challengers welcome — insert coin to start a co-op.**
+<p align="center">Out of lives but want to keep playing? Take a warp pipe. <b>New challengers welcome — insert coin to start a co-op.</b></p>
 
 <div align="center">
 
