@@ -118,7 +118,7 @@
   <tr>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine" alt="Unreal Engine" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="45" height="45" /></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -136,39 +136,42 @@
   </tr>
   <tr><th colspan="7">🧠 AI / DATA</th></tr>
   <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" alt="PyTorch" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" title="scikit-learn" alt="scikit-learn" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" title="MATLAB" alt="MATLAB" width="45" height="45" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="7" align="center">
+      <img src="https://img.shields.io/badge/PyTorch-0b1021?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-0b1021?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-0b1021?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras" />
+      <img src="https://img.shields.io/badge/Hugging_Face-0b1021?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangChain-0b1021?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-0b1021?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Pandas-0b1021?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-0b1021?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+    </td>
   </tr>
   <tr><th colspan="7">🌐 WEB / BACKEND</th></tr>
   <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" width="45" height="45" /></td>
-  </tr>
-  <tr>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="45" height="45" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="45" height="45" /></td>
   </tr>
-  <tr><th colspan="7">🛠️ TOOLS / ART</th></tr>
+  <tr>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" width="45" height="45" /></td>
+  </tr>
+  <tr><th colspan="7">🛠️ TOOLS</th></tr>
   <tr>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" title="Arduino" alt="Arduino" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" width="45" height="45" /></td>
+    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ps&theme=dark" title="Photoshop" alt="Photoshop" width="45" height="45" /></td>
     <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ai&theme=dark" title="Illustrator" alt="Illustrator" width="45" height="45" /></td>
