@@ -29,9 +29,9 @@
 <br/>
 
 <img src="https://img.shields.io/badge/CLASS-GAME_DEVELOPER-ff3864?style=for-the-badge&logo=unity&logoColor=white&labelColor=0b1021" alt="Game Developer" />
-<img src="https://img.shields.io/badge/MULTICLASS-SOFTWARE_ENGINEER-ffd23f?style=for-the-badge&logo=python&logoColor=black&labelColor=0b1021" alt="Software Engineer" />
+<img src="https://img.shields.io/badge/MULTICLASS-SOFTWARE_ENGINEER-ffd23f?style=for-the-badge&logo=typescript&logoColor=black&labelColor=0b1021" alt="Software Engineer" />
 <br/>
-<img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEV_%40_MYTREEHOOD-2ea44f?style=for-the-badge&logo=php&logoColor=white&labelColor=0b1021" alt="Software Developer at MyTreeHood" />
+<img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEV_%40_MYTREEHOOD-2ea44f?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0b1021" alt="Full-Stack Developer at MyTreehood" />
 <img src="https://img.shields.io/badge/GUILD-QMUL-9b5de5?style=for-the-badge&logo=academia&logoColor=white&labelColor=0b1021" alt="QMUL" />
 <br/>
 <img src="https://img.shields.io/badge/BASE-LONDON,_UK-1f9cf0?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b1021" alt="London" />
@@ -70,17 +70,17 @@
 🎯 <b>Engines:</b> Unity · Unreal<br/>
 🕹️ <b>Focus:</b> 2D · VR · Serious Games<br/>
 🧩 <b>Systems:</b> Procedural Gen · Gameplay<br/>
-⌨️ <b>Languages:</b> C# · C++<br/>
+⌨️ <b>Languages:</b> C# (shipped) · Python<br/>
 🏅 <b>Best runs:</b> Beyond-Yasaman · ZigZag
 
 </td>
 <td valign="top" align="center">
 
 🧠 <b>Domains:</b> AI/ML · Robotics<br/>
-🌐 <b>Stack:</b> Web · Backend · Databases<br/>
+🌐 <b>Stack:</b> Next.js · PostgreSQL · Docker<br/>
 🛠️ <b>Built:</b> Compilers · Multi-Agent Sims<br/>
-⌨️ <b>Languages:</b> Python · C++ · Java<br/>
-🏅 <b>Best runs:</b> MyTreeHood · Multi-Agent Town
+⌨️ <b>Languages:</b> TypeScript · SQL (every day)<br/>
+🏅 <b>Best runs:</b> MyTreehood · Multi-Agent Town
 
 </td>
 </tr>
@@ -104,11 +104,11 @@
 |:--|:--|
 | 🕹️ **NAME** | Erfan Rafiei Oskouei |
 | ⚔️ **CLASS** | Game Developer × Software Engineer |
-| 💼 **ROLE** | Software Developer @ MyTreeHood |
+| 💼 **ROLE** | Full-Stack Developer @ MyTreehood |
 | 📍 **LOCATION** | London, UK |
 | 🎓 **GUILD** | Queen Mary University of London (QMUL) |
 | 🧬 **ORIGIN** | Shahid Beheshti University — Computer Eng. |
-| 🎯 **CURRENT QUEST** | Building & scaling the **[MyTreeHood](https://www.mytreehood.com)** platform — full-stack web engineering |
+| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#case-study)** from scratch: Next.js 16, PostgreSQL, Railway · 6 phases, Phase 1 in production |
 | 🎮 **SIDE QUEST** | Serious Games · VR · Multi-Agent Sims |
 | 🤝 **SEEKING** | Game-industry & software projects, research co-op |
 | 🟢 **STATUS** | ONLINE — press start to connect |
@@ -119,71 +119,83 @@
 
 <h3 align="center">🎒 INVENTORY · EQUIPPED LOADOUT</h3>
 
+<p align="center">Every item is tied to the work that used it — same loadout as the <a href="https://rfosk.vercel.app/software#stack">portfolio</a>.</p>
+
 <div align="center">
 
 <table>
-  <tr><th colspan="7">🎮 GAME ENGINES</th></tr>
+  <tr><th colspan="3">⌨️ LANGUAGES · BY LEVEL</th></tr>
   <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine" alt="Unreal Engine" width="45" height="45" /></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr><th colspan="7">⌨️ LANGUAGES</th></tr>
-  <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=c&theme=dark" title="C" alt="C" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="45" height="45" /></td>
-    <td></td>
-  </tr>
-  <tr><th colspan="7">🧠 AI / DATA</th></tr>
-  <tr>
-    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" title="PyTorch" alt="PyTorch" width="42" height="42" /></td>
-    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" title="TensorFlow" alt="TensorFlow" width="42" height="42" /></td>
-    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/keras/FF0F0F" /><img src="https://cdn.simpleicons.org/keras/D00000" title="Keras" alt="Keras" width="42" height="42" /></picture></td>
-    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/FFD21E" /><img src="https://cdn.simpleicons.org/huggingface/B8860B" title="Hugging Face" alt="Hugging Face" width="42" height="42" /></picture></td>
-    <td align="center" width="60" height="60"><img src="https://cdn.simpleicons.org/anthropic/D97757" title="Anthropic" alt="Anthropic" width="42" height="42" /></td>
-    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/E70488" /><img src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" alt="Pandas" width="42" height="42" /></picture></td>
-    <td align="center" width="60" height="60"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/4DABCF" /><img src="https://cdn.simpleicons.org/numpy/013243" title="NumPy" alt="NumPy" width="42" height="42" /></picture></td>
-  </tr>
-  <tr><th colspan="7">🌐 WEB / BACKEND</th></tr>
-  <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="45" height="45" /></td>
+    <td><b>EVERY DAY</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="SQL (PostgreSQL)" alt="SQL (PostgreSQL)" width="40" height="40" /></td>
+    <td>MyTreehood: the rebuild, in production</td>
   </tr>
   <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" title="Firebase" alt="Firebase" width="45" height="45" /></td>
+    <td><b>SHIPPED</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#" width="40" height="40" /></td>
+    <td>Two store releases at MCIHUB, and Beyond Yasaman (published)</td>
   </tr>
-  <tr><th colspan="7">🛠️ TOOLS</th></tr>
   <tr>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="45" height="45" /></td>
-    <td align="center" width="60" height="60"><img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="45" height="45" /></td>
-    <td></td>
-    <td></td>
+    <td><b>PROJECTS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="40" height="40" /></td>
+    <td>MSc thesis, image captioning, quadcopter landing, Othello and Hive AIs</td>
+  </tr>
+  <tr>
+    <td><b>COURSEWORK</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="40" height="40" /></td>
+    <td>Compiler front-end, SushiGo agent, Log Hunter</td>
+  </tr>
+  <tr><th colspan="3">🌐 MYTREEHOOD STACK · IN PRODUCTION</th></tr>
+  <tr>
+    <td><b>WEB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js 16" alt="Next.js 16" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React 19" alt="React 19" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /></td>
+    <td>The four-language marketing site, with translated URLs</td>
+  </tr>
+  <tr>
+    <td><b>DATA</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL 18" alt="PostgreSQL 18" width="40" height="40" /></td>
+    <td>70-table schema that enforces the money rules; Drizzle ORM</td>
+  </tr>
+  <tr>
+    <td><b>INFRA</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="40" height="40" /> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/railway/FFFFFF" /><img src="https://cdn.simpleicons.org/railway/0B0D0E" title="Railway" alt="Railway" width="38" height="38" /></picture></td>
+    <td>One non-root image, gated by CI, deployed on Railway as code</td>
+  </tr>
+  <tr>
+    <td><b>TEST</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vitest&theme=dark" title="Vitest" alt="Vitest" width="40" height="40" /></td>
+    <td>309 tests, with Postgres running in-process</td>
+  </tr>
+  <tr><th colspan="3">🧠 AI / ML · BY PROJECT</th></tr>
+  <tr>
+    <td><b>LLM AGENTS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" width="40" height="40" /></td>
+    <td>Multi-Agent Town (MSc thesis): behaviour trees + LLM APIs, Socket.IO</td>
+  </tr>
+  <tr>
+    <td><b>VISION</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" alt="PyTorch" width="40" height="40" /> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/FFD21E" /><img src="https://cdn.simpleicons.org/huggingface/B8860B" title="Transformers (Hugging Face)" alt="Transformers (Hugging Face)" width="38" height="38" /></picture></td>
+    <td>Image captioning: Transformer decoder over a frozen CLIP encoder</td>
+  </tr>
+  <tr>
+    <td><b>ROBOTICS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="TensorFlow / Keras" alt="TensorFlow / Keras" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" alt="OpenCV" width="40" height="40" /></td>
+    <td>Autonomous quadcopter landing in Webots</td>
+  </tr>
+  <tr><th colspan="3">🎮 GAME ENGINES & TOOLS</th></tr>
+  <tr>
+    <td><b>ENGINES</b></td>
+    <td><img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40" /></td>
+    <td>Two shipped titles, The Stranded, Beyond Yasaman; UE5 certification</td>
+  </tr>
+  <tr>
+    <td><b>TOOLS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40" /></td>
+    <td>Used across the game projects; Git for everything</td>
   </tr>
 </table>
 
-<sub>🖱️ <b>Hover any item to read its name.</b></sub>
+<sub>🖱️ <b>Hover any icon to read its name.</b></sub>
 
 </div>
 
@@ -218,7 +230,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GAMES_SHIPPED-8%2B-ff3864?style=for-the-badge&logo=unity&logoColor=white&labelColor=0b1021" alt="Games shipped" />
+<img src="https://img.shields.io/badge/STORE_RELEASES-2-ff3864?style=for-the-badge&logo=unity&logoColor=white&labelColor=0b1021" alt="Store releases: 2" />
+<img src="https://img.shields.io/badge/MSc-DISTINCTION-ffd23f?style=for-the-badge&logo=academia&logoColor=black&labelColor=0b1021" alt="MSc Computer Games, Distinction" />
 <img src="https://img.shields.io/badge/AI%2FML-UNLOCKED-1f9cf0?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0b1021" alt="AI/ML" />
 <img src="https://img.shields.io/badge/ROBOTICS-UNLOCKED-9b5de5?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0b1021" alt="Robotics" />
 <img src="https://img.shields.io/badge/COMPILERS-UNLOCKED-2ea44f?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0b1021" alt="Compilers" />
@@ -248,7 +261,7 @@
 <a href="https://www.linkedin.com/in/erfan-rafiei-oskouei-1a4a50283/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1021" alt="LinkedIn" />
 </a>
-<a href="https://3rfunn.github.io/">
+<a href="https://rfosk.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-ff3864?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1021" alt="Portfolio" />
 </a>
 
