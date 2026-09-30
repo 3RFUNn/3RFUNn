@@ -108,7 +108,7 @@
 | 📍 **LOCATION** | London, UK |
 | 🎓 **GUILD** | Queen Mary University of London (QMUL) |
 | 🧬 **ORIGIN** | Shahid Beheshti University — Computer Eng. |
-| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#case-study)** from scratch: Next.js 16, PostgreSQL, Railway · 6 phases, Phase 1 in production |
+| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#mytreehood)**'s e-commerce platform from scratch for better performance and more features: Next.js 16, PostgreSQL, Railway · 6 phases, Phase 1 in production |
 | 🎮 **SIDE QUEST** | Serious Games · VR · Multi-Agent Sims |
 | 🤝 **SEEKING** | Game-industry & software projects, research co-op |
 | 🟢 **STATUS** | ONLINE — press start to connect |
