@@ -108,7 +108,7 @@
 | 📍 **LOCATION** | London, UK |
 | 🎓 **GUILD** | Queen Mary University of London (QMUL) |
 | 🧬 **ORIGIN** | Shahid Beheshti University — Computer Eng. |
-| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#mytreehood)**'s e-commerce platform from scratch for better performance and more features: Next.js 16, PostgreSQL, Railway · the foundation is in production ahead of launch |
+| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#mytreehood)**'s e-commerce platform from scratch for better performance and more features: Next.js 16, PostgreSQL, Railway · the foundation and checkout are in production ahead of launch, and the customer account is under way |
 | 🎮 **SIDE QUEST** | Serious Games · VR · Multi-Agent Sims |
 | 🤝 **SEEKING** | Game-industry & software projects, research co-op |
 | 🟢 **STATUS** | ONLINE — press start to connect |
@@ -149,12 +149,17 @@
   <tr>
     <td><b>WEB</b></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js 16" alt="Next.js 16" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React 19" alt="React 19" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /></td>
-    <td>The four-language marketing site, with translated URLs</td>
+    <td>Storefront, checkout and account in four languages, with translated URLs</td>
   </tr>
   <tr>
     <td><b>DATA</b></td>
     <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL 18" alt="PostgreSQL 18" width="40" height="40" /></td>
     <td>70-table schema that enforces the money rules; Drizzle ORM</td>
+  </tr>
+  <tr>
+    <td><b>COMMERCE</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/stripe/FFFFFF" /><img src="https://cdn.simpleicons.org/stripe/635BFF" title="Stripe" alt="Stripe" width="38" height="38" /></picture></td>
+    <td>Stripe Checkout and a signed webhook (test mode until launch); invoices and PDFs rendered by a job worker</td>
   </tr>
   <tr>
     <td><b>INFRA</b></td>
@@ -164,7 +169,7 @@
   <tr>
     <td><b>TEST</b></td>
     <td><img src="https://skillicons.dev/icons?i=vitest&theme=dark" title="Vitest" alt="Vitest" width="40" height="40" /></td>
-    <td>309 tests, with Postgres running in-process</td>
+    <td>718 tests, with Postgres running in-process</td>
   </tr>
   <tr><th colspan="3">🧠 AI / ML · BY PROJECT</th></tr>
   <tr>
