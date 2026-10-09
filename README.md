@@ -108,7 +108,7 @@
 | 📍 **LOCATION** | London, UK |
 | 🎓 **GUILD** | Queen Mary University of London (QMUL) |
 | 🧬 **ORIGIN** | Shahid Beheshti University — Computer Eng. |
-| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#mytreehood)**'s e-commerce platform from scratch for better performance and more features: Next.js 16, PostgreSQL, Railway · 6 phases, Phase 1 in production |
+| 🎯 **CURRENT QUEST** | Rebuilding **[MyTreehood](https://rfosk.vercel.app/software#mytreehood)**'s e-commerce platform from scratch for better performance and more features: Next.js 16, PostgreSQL, Railway · the foundation is in production ahead of launch |
 | 🎮 **SIDE QUEST** | Serious Games · VR · Multi-Agent Sims |
 | 🤝 **SEEKING** | Game-industry & software projects, research co-op |
 | 🟢 **STATUS** | ONLINE — press start to connect |
@@ -138,12 +138,12 @@
   <tr>
     <td><b>PROJECTS</b></td>
     <td><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="40" height="40" /></td>
-    <td>MSc thesis, image captioning, quadcopter landing, Othello and Hive AIs</td>
+    <td>MSc thesis, image captioning, quadcopter landing, Othello AI, Hive rules engine</td>
   </tr>
   <tr>
     <td><b>COURSEWORK</b></td>
     <td><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="40" height="40" /></td>
-    <td>Compiler front-end, SushiGo agent, Log Hunter</td>
+    <td>Compiler for the Cool teaching language, SushiGo agent, Log Hunter</td>
   </tr>
   <tr><th colspan="3">🌐 MYTREEHOOD STACK · IN PRODUCTION</th></tr>
   <tr>
@@ -168,14 +168,14 @@
   </tr>
   <tr><th colspan="3">🧠 AI / ML · BY PROJECT</th></tr>
   <tr>
-    <td><b>LLM AGENTS</b></td>
+    <td><b>LLM NARRATIVE</b></td>
     <td><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=flask&theme=dark" title="Flask" alt="Flask" width="40" height="40" /></td>
     <td>Multi-Agent Town (MSc thesis): behaviour trees + LLM APIs, Socket.IO</td>
   </tr>
   <tr>
     <td><b>VISION</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" alt="PyTorch" width="40" height="40" /> <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/huggingface/FFD21E" /><img src="https://cdn.simpleicons.org/huggingface/B8860B" title="Transformers (Hugging Face)" alt="Transformers (Hugging Face)" width="38" height="38" /></picture></td>
-    <td>Image captioning: Transformer decoder over a frozen CLIP encoder</td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" alt="PyTorch" width="40" height="40" /></td>
+    <td>Image captioning: Transformer decoder over a frozen CLIP encoder, BLEU-4 0.237</td>
   </tr>
   <tr>
     <td><b>ROBOTICS</b></td>
@@ -186,7 +186,7 @@
   <tr>
     <td><b>ENGINES</b></td>
     <td><img src="https://skillicons.dev/icons?i=unity&theme=dark" title="Unity" alt="Unity" width="40" height="40" /> <img src="https://skillicons.dev/icons?i=unreal&theme=dark" title="Unreal Engine 5" alt="Unreal Engine 5" width="40" height="40" /></td>
-    <td>Two shipped titles, The Stranded, Beyond Yasaman; UE5 certification</td>
+    <td>Two shipped titles, The Stranded, Beyond Yasaman; Unreal Engine 5 beginner course</td>
   </tr>
   <tr>
     <td><b>TOOLS</b></td>
@@ -214,8 +214,8 @@
 | `1-3` | [**ZigZag**](https://github.com/3RFUNn/ZigZag) | Hyper-Casual | Unity · C# | ★★☆☆☆ | [▶](https://github.com/3RFUNn/ZigZag) |
 | `2-1` | [**Multi-Agent Town Story Simulator**](https://github.com/3RFUNn/Multi-Agent-Town-Story-Simulator) | Emergent-Narrative AI Sim | Python | ★★★★★ | [▶](https://github.com/3RFUNn/Multi-Agent-Town-Story-Simulator) |
 | `2-2` | [**Bug 0/1/2 Pathfinding**](https://github.com/3RFUNn/Bug-0-1-2-Algorithms-Implementation) | Robotics · Navigation | Python · Webots | ★★★★☆ | [▶](https://github.com/3RFUNn/Bug-0-1-2-Algorithms-Implementation) |
-| `2-3` | [**C++ Compiler**](https://github.com/3RFUNn/CPP-Compiler-implementation) | Compilers · Lang Design | Java | ★★★★☆ | [▶](https://github.com/3RFUNn/CPP-Compiler-implementation) |
-| `3-1` | [**Othello-AI**](https://github.com/3RFUNn/Othello-AI) | Adversarial Game AI | Python · α-β pruning | ★★★☆☆ | [▶](https://github.com/3RFUNn/Othello-AI) |
+| `2-3` | [**Cool Compiler**](https://github.com/3RFUNn/CPP-Compiler-implementation) | Compilers · Cool → MIPS | Java · JFlex | ★★★★☆ | [▶](https://github.com/3RFUNn/CPP-Compiler-implementation) |
+| `3-1` | [**Othello-AI**](https://github.com/3RFUNn/Othello-AI) | Adversarial Game AI | Python · minimax | ★★★☆☆ | [▶](https://github.com/3RFUNn/Othello-AI) |
 | `3-2` | [**MicroProcessor Systems**](https://github.com/3RFUNn/MicroProcessor-Systems) | Embedded · Bare-metal | C · Keil · Proteus | ★★★☆☆ | [▶](https://github.com/3RFUNn/MicroProcessor-Systems) |
 
 </div>
